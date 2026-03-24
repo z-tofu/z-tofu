@@ -1,7 +1,7 @@
 Hi 👋 My name is Tofu
 =============================================================================================================================
 
-I am mostly interested in backend development and graphics programming. On the side I do work personal fronted projects, these focus on stylized aesthetics and attempting to bring unique—sometimes forgotten—internet design concept to the modern web.
+I am mostly interested in backend development and graphics programming. On the side I do work personal fronted projects, these focus on stylized aesthetics and attempting to bring unique—sometimes forgotten—internet design concept to the modern web. With time being limited, most of my project are not in a presentable state. However, I am open to discuss anything mentioned on my github.
 
 *    📍I'm based in Finland 🇫🇮
 *    💡I'm currently learning Swift and Metal
@@ -15,6 +15,11 @@ I am mostly interested in backend development and graphics programming. On the s
                   </p>
                   
 
-### Socials
+### Socials and contacing
                 
 <p align="left"> <a href="https://www.github.com/z-tofu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
+
+```text
+Email: firstname.lastname@gmail.com (without umlaut)
+Discord: z_tofu
+```
