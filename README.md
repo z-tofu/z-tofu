@@ -1,7 +1,7 @@
 Hi 👋 My name is Tofu
 =============================================================================================================================
 
-I am mostly interested in backend development and graphics programming. On the side I do work personal fronted projects, these focus on stylized aesthetics and attempting to bring unique—sometimes forgotten—internet design concept to the modern web. With time being limited, most of my project are not in a presentable state. However, I am open to discuss anything mentioned on my github.
+I am mostly interested in backend development and graphics programming. On the side I do work personal fronted projects, these focus on stylized aesthetics and attempting to bring unique—sometimes forgotten—internet design concept to the modern web. I am open to discuss anything mentioned on my github.
 
 *    📍I'm based in Finland 🇫🇮
 *    💡I'm currently learning Swift and Metal
