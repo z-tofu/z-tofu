@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Tofu
+Hi 👋 My name is Tofu
 =============================================================================================================================
 
 I am mostly interested in backend development and graphics programming. On the side I do work personal fronted projects, these focus on stylized aesthetics and attempting to bring unique—sometimes forgotten—internet design concept to the modern web.
