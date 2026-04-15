@@ -11,7 +11,7 @@ I am mostly interested in backend development and graphics programming. On the s
 Rust, TS, Swift, Java, Python, C#
 
 <img align="right" height="150" src="https://www.ztofu.tech/images/34aaf0f9-2c09-42b6-b0e4-95abd2912db1.gif"  />
-
+<br>
   
 ### Frameworks and what-nots:
 React, Vite, SQL, .NET, Docker
