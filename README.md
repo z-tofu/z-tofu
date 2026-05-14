@@ -10,12 +10,13 @@ Feel free to contact to discuss anything :)
 ## Skills
 
 ### Programming languages:
+<img align="right" height="400" src="https://www.ztofu.tech/images/34aaf0f9-2c09-42b6-b0e4-95abd2912db1.gif" />
+
 Main:<br>
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 [![Haskell](https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white)](#)
 
-<img align="right" height="150" src="https://www.ztofu.tech/images/34aaf0f9-2c09-42b6-b0e4-95abd2912db1.gif" />
 
 Used for uni etc.:<br>
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
