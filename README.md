@@ -1,4 +1,4 @@
-hi, i'm tofu
+![hi](https://raw.githubusercontent.com/z-tofu/z-tofu/refs/heads/main/buh.svg)
 =============================================================================================================================
 
 I dabble in a bit of frontend to backend to game dev.<br>
