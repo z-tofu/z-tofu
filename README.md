@@ -7,8 +7,11 @@ I am mostly interested in backend development and graphics programming. On the s
 
 ## Skills
 ### Programming languages:
-Rust, TS, Haskell, Java, Python, C#
+Main:<br>
+Rust, TS, Haskell
 
+Used for uni etc.:<br>
+Java, Python, C#
 <img align="right" height="150" src="https://www.ztofu.tech/images/34aaf0f9-2c09-42b6-b0e4-95abd2912db1.gif"  />
 <br>
   
