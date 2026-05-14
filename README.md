@@ -1,9 +1,9 @@
-Hi 👋 My name is Tofu
+Hi, My name is Tofu
 =============================================================================================================================
 
 I am mostly interested in backend development and graphics programming. On the side I do work on personal fronted projects, these focus on stylized aesthetics and attempting to bring unique—sometimes forgotten—internet design concepts to the modern web. I am open to discuss anything mentioned on my github.
 
-*    📍I'm based in Finland 🇫🇮
+*    Based in Finland 🇫🇮
 
 ## Skills
 ### Programming languages:
