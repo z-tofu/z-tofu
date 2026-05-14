@@ -42,6 +42,6 @@ Discord: z_tofu
 <div align="right">
   <sub><strong>Visitor Count</strong></sub><br>
   <a href="https://count.getloli.com/">
-    <img src="https://count.getloli.com/@7554e070-0743-4918-bef2-1ed0474?name=7554e070-0743-4918-bef2-1ed0474&theme=original-new&padding=7&offset=0&scale=1&pixelated=1&darkmode=auto" height="100">
+    <img src="https://count.getloli.com/@7554e070-0743-4918-bef2-1ed0474?name=7554e070-0743-4918-bef2-1ed0474&theme=original-new&padding=6&offset=0&scale=1&pixelated=1&darkmode=auto" height="100">
   </a>
 </div>
