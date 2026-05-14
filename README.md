@@ -15,13 +15,12 @@ Main:<br>
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 [![Haskell](https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white)](#)
 
+<img align="right" height="150" src="https://www.ztofu.tech/images/34aaf0f9-2c09-42b6-b0e4-95abd2912db1.gif" />
+
 Used for uni etc.:<br>
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
-
-<img align="right" height="150" src="https://www.ztofu.tech/images/34aaf0f9-2c09-42b6-b0e4-95abd2912db1.gif" />
-
 
 ### Frameworks and what-nots:
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
@@ -30,8 +29,7 @@ Used for uni etc.:<br>
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
-<br>
-<br>
+
 
 ## Contact
 
