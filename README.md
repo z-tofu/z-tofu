@@ -2,9 +2,9 @@
 =============================================================================================================================
 
 I dabble in everything from frontend to backend to game dev.<br>
-I enjoy obsessing over the little details most users wont notice and creating unique designs — ableit sometimes unpractical.<br>
+I enjoy obsessing over the little details most users wont notice and creating unique designs — albeit sometimes unpractical.<br>
 Apart from coding, I enjoy games, reading and playing the piano.<br>
-Feel free to contact to discuss anything :) 
+Feel free to contact me to discuss anything :) 
 
 
 ## Skills
