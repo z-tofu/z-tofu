@@ -31,11 +31,9 @@ Used for uni etc.:<br>
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 <br>
-
-
+<br>
 
 ## Contact
-
 
 ```text
 Email: firstname.lastname@gmail.com (without umlauts)
