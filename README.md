@@ -20,6 +20,9 @@ Used for uni etc.:<br>
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 
+<img align="right" height="150" src="https://www.ztofu.tech/images/34aaf0f9-2c09-42b6-b0e4-95abd2912db1.gif" />
+
+
 ### Frameworks and what-nots:
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
@@ -29,7 +32,6 @@ Used for uni etc.:<br>
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 <br>
 
-<img align="right" height="150" src="https://www.ztofu.tech/images/34aaf0f9-2c09-42b6-b0e4-95abd2912db1.gif" />
 
 
 ## Contact
